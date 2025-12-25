@@ -1,4 +1,4 @@
-package SOLID.LSP.Voilate;
+package SOLID.LSP.Exanple1.Voilate;
 
 interface Bike{
     void turnOnEngine();
