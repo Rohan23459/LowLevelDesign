@@ -1,4 +1,4 @@
-package DESIGNPATTERN.StrategyPattern.Follow;
+package DESIGNPATTERN.StrategyPattern.Example1.Follow;
 
 public class SportsVehicle extends Vehicle {
 

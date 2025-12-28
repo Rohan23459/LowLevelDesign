@@ -1,4 +1,4 @@
-package DESIGNPATTERN.StrategyPattern.Voilates;
+package DESIGNPATTERN.StrategyPattern.Example1.Voilates;
 
 public class StrategyPatternVoilates {
     public static void main (String []args){
